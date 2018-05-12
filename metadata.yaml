@@ -1,0 +1,28 @@
+_repo: Irene-Iddesleigh_34181
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ros, Amanda McKittrick
+    alias: Ros, Amanda M'Kittrick
+    birthdate: 1860
+    deathdate: 1939
+    gutenberg_agent_id: '36849'
+    url: http://www.gutenberg.org/2009/agents/36849
+    wikipedia: http://en.wikipedia.org/wiki/Amanda_McKittrick_Ros
+description: ''
+gutenberg_issued: '2010-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34181'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: Irene Iddesleigh
+url: http://www.gutenberg.org/ebooks/34181
